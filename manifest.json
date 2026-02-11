@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "贴吧自动签到",
-  "version": "1.0",
-  "description": "每天定时签到百度贴吧，并记录签到日志",
+  "version": "1.1",
+  "description": "每天定时签到百度贴吧，自动重试失败任务",
   "permissions": [
     "storage",
     "alarms",
